@@ -9,7 +9,7 @@ The aim is to analyze customers' demographic information, purchasing patterns,
 and interactions with marketing campaigns to identify key insights.
 
 ## The Data
-- Source: [Raw Data/martketing_campaign.csv]
+- Source: reetail-analytics-capstone/martketing_campaign.csv in Raw Data
 - Size: [ID, Year_Birth, Education, Marital_Status, Income, Kidhome, Teenhome, Dt_Customer, Recency, MntWines, MntFruits, MntMeatProducts, MntFishProducts, MntSweetProducts, MntGoldProds, NumDealsPurchases, NumDealsPurchases, NumWebPurchases, NumCatalogPurchases, NumStorePurchases, NumWebVisitsMonth, AcceptedCmp1, AcceptedCmp2, AcceptedCmp3, AcceptedCmp4, AcceptedCmp5, Response, Complain, Z_CostContact, Z_Revenue, Response_Total]
 
 ## Process & Tools
