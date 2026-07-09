@@ -31,7 +31,7 @@ and interactions with marketing campaigns to identify key insights.
 3. Campaign performance varied significantly. Campaign 2 failed to generate a positive return and should be excluded from future planning. Campaigns 3, 4, and 5 produced similar engagement levels, making their shared characteristics a strong template for future campaign design.
 
 ## Repository Contents
-- `/sql` — database schema and analysis queries
-- `/python` — Jupyter notebook with full analysis
-- `/excel` — data cleaning workbook
-- `/images` — dashboard previews
+- `/CapstoneProject.sql` — database schema and analysis queries
+- `/CapstoneProject.ipynb` — Jupyter notebook with full analysis
+- `/CapstoneProject.xlsx` — data cleaning workbook
+- `/CapstoneProject.pdf` — dashboard previews
